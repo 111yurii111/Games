@@ -1,0 +1,1 @@
+w = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve', 'Thirteen', 'Fourteen', 'fifteen', 'Sixteen', 'seventeen', 'eighteen', 'nineteen', 'twenty', 'thirty', 'fourty', 'fifty', 'sixty', 'Seventy', 'eighty', 'ninety', 'hundret']

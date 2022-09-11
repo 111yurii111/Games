@@ -1,0 +1,1 @@
+w = ['moon', 'sun', 'earth', 'mars', 'saturn', 'venus', 'mercury', 'jupiter', 'Uranus', 'Neptune', 'comet', 'meteor', 'Astroid', 'galaxy', 'star', 'vacuum', 'astronaut', 'space', 'spaceship', 'spacestation', 'ufo', 'Aliant', 'Planet']

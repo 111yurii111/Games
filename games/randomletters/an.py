@@ -1,0 +1,1 @@
+w = ['wolf', 'duck', 'crab', 'rat', 'frog', 'lemur', 'snake', 'koala', 'bear', 'donkey', 'dog', 'fox', 'cat', 'Sheep', 'pig', 'monkey', 'goat', 'cow', 'alligator', 'giraffe', 'elephant', 'hippo', 'lion', 'zebra', 'tiger', 'Horse', 'panda']

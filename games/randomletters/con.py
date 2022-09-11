@@ -1,0 +1,1 @@
+w = ['usa', 'canada', 'australia', 'italy', 'india', 'france', 'ukraine', 'japan', 'mexico', 'brazil', 'china', 'spain', 'britain', 'germany', 'greece', 'Hungary', 'croatia', 'korea', 'egypt', 'ireland', 'portugal', 'norway', 'finland', 'serbia', 'albania', 'turkey', 'sweden', 'Bulgaria', 'denmark', 'poland']
